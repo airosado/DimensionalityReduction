@@ -1,0 +1,43 @@
+,Dimensionality Reduction Method,Mean Jaccard Distance,Dataset
+0,PCA 100D UMAP,0.797124162,Mouse Ex-Utero E8.5 Data
+1,PCA 100D t-SNE,0.754722687,Mouse Ex-Utero E8.5 Data
+2,PCA 15D UMAP,0.77042433,Mouse Ex-Utero E8.5 Data
+3,PCA 15D t-SNE,0.744092369,Mouse Ex-Utero E8.5 Data
+4,PCA 50D UMAP,0.775567288,Mouse Ex-Utero E8.5 Data
+5,PCA 50D t-SNE,0.738974797,Mouse Ex-Utero E8.5 Data
+6,PCA 100D UMAP,0.867335952,Mouse Retinal Ganglion Cell Data
+7,PCA 100D t-SNE,0.829966268,Mouse Retinal Ganglion Cell Data
+8,PCA 15D UMAP,0.835774,Mouse Retinal Ganglion Cell Data
+9,PCA 15D t-SNE,0.797343604,Mouse Retinal Ganglion Cell Data
+10,PCA 50D UMAP,0.855717367,Mouse Retinal Ganglion Cell Data
+11,PCA 50D t-SNE,0.818828398,Mouse Retinal Ganglion Cell Data
+12,PCA 100D UMAP,0.849178852,Human Squamous Cell Carcinoma Data
+13,PCA 100D t-SNE,0.820959675,Human Squamous Cell Carcinoma Data
+14,PCA 15D UMAP,0.800353333,Human Squamous Cell Carcinoma Data
+15,PCA 15D t-SNE,0.779198238,Human Squamous Cell Carcinoma Data
+16,PCA 50D UMAP,0.829280366,Human Squamous Cell Carcinoma Data
+17,PCA 50D t-SNE,0.805262051,Human Squamous Cell Carcinoma Data
+18,PCA 100D UMAP,0.943365061,Mouse 10X VMH Neurons Data
+19,PCA 100D t-SNE,0.902394075,Mouse 10X VMH Neurons Data
+20,PCA 15D UMAP,0.928974508,Mouse 10X VMH Neurons Data
+21,PCA 15D t-SNE,0.882683279,Mouse 10X VMH Neurons Data
+22,PCA 50D UMAP,0.937395044,Mouse 10X VMH Neurons Data
+23,PCA 50D t-SNE,0.895347664,Mouse 10X VMH Neurons Data
+24,PCA 100D UMAP,0.821126772,MERFISH Mouse Primary Cortex Data
+25,PCA 100D t-SNE,0.777092522,MERFISH Mouse Primary Cortex Data
+26,PCA 15D UMAP,0.798413748,MERFISH Mouse Primary Cortex Data
+27,PCA 15D t-SNE,0.773376342,MERFISH Mouse Primary Cortex Data
+28,PCA 50D UMAP,0.807698767,MERFISH Mouse Primary Cortex Data
+29,PCA 50D t-SNE,0.767019405,MERFISH Mouse Primary Cortex Data
+30,PCA 100D UMAP,0.725542298,SMART-Seq VMH data
+31,PCA 100D t-SNE,0.695463082,SMART-Seq VMH data
+32,PCA 15D UMAP,0.74150826,SMART-Seq VMH data
+33,PCA 15D t-SNE,0.720235903,SMART-Seq VMH data
+34,PCA 50D UMAP,0.715266211,SMART-Seq VMH data
+35,PCA 50D t-SNE,0.686175261,SMART-Seq VMH data
+36,PCA 100D UMAP,0.605390354,Mouse Striatum data
+37,PCA 100D t-SNE,0.551824988,Mouse Striatum data
+38,PCA 15D UMAP,0.58147382,Mouse Striatum data
+39,PCA 15D t-SNE,0.550013123,Mouse Striatum data
+40,PCA 50D UMAP,0.568325398,Mouse Striatum data
+41,PCA 50D t-SNE,0.523881632,Mouse Striatum data
